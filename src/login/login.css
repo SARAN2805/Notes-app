@@ -1,0 +1,22 @@
+.login_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    width: 50%;
+    margin: 100px;
+}
+.login_main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
