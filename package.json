@@ -1,5 +1,5 @@
 {
-  "homepage": "http://SARAN2805.github.io/Notes-app",
+  "homepage": "./http://SARAN2805.github.io/Notes-app",
   "name": "react-notes-app",
   "version": "0.1.0",
   "private": true,
